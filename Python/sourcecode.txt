@@ -1,0 +1,8 @@
+﻿<div class="box">
+	<a rel="nofollow" class="image fit"><video src="{0}" controls="controls" width= 300px height=300px>您的浏览器不支持 video 标签。</video></a>
+	<div class="inner">
+		<h3>{1}</h3>
+		<p>{2}</p>
+		<a href="{0}" class="button fit">Download</a>
+	</div>
+</div>
